@@ -1,0 +1,13 @@
+# Area of polygon
+http://www.codeskulptor.org/#user40_2qzdiWZm1u_0.py
+
+# Difference between a random.randint & random.randrange
+http://www.codeskulptor.org/#user40_Z7vdSrz3Ln_0.py
+
+# Your future income based on your present income, rate and period
+http://www.codeskulptor.org/#user40_V8cgSe3fDk_0.py
+
+# Distance calculator from origin to given point
+http://www.codeskulptor.org/#user40_V8cgSe3fDk_1.py
+
+
